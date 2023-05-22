@@ -1,0 +1,10 @@
+#editButton {
+    -fx-background-color: #2F80ED;
+    -fx-text-fill: white;
+}
+
+#deleteButton {
+    -fx-background-color: #ED2F2F;
+    -fx-text-fill: white;
+}
+
